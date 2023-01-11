@@ -7,7 +7,11 @@ The order button is still unavailable at the moment but maybe soon I will make i
 1. Clone this repository
 2. Change the directory if necessary
 3. Install the dependencies
-`npm install`
+```
+npm install
+```
 4. Run the deployment server
-`npm start`
-  - Your browser should be automatically open the server, otherwise just open it manually by accessing (localhost:3000)
+```
+npm start
+```
+Your browser should be automatically open the server, otherwise just open it manually by accessing [localhost:3000](localhost:3000)
