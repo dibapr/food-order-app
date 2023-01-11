@@ -14,4 +14,4 @@ npm install
 ```
 npm start
 ```
-Your browser should be automatically open the server, otherwise just open it manually by accessing [localhost:3000](localhost:3000)
+Your browser should be automatically open the server, otherwise just open it manually by accessing [localhost:3000](https://localhost:3000)
